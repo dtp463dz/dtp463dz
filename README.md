@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 !["Alt text"](header.png)
 <!--
 **dtp463dz/dtp463dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
