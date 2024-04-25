@@ -1,5 +1,9 @@
 ### 
 ![Header](github-header-image.png)
+![Header](github-header-image.png) {
+  width: 400px;
+  height: 200px;
+}
 <!--
 **dtp463dz/dtp463dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
